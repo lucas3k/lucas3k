@@ -21,4 +21,4 @@ A few more facts about me:
 - 💻 I'm passionate about studying/learning about technology;
 - 🌎 I love learning new languages (English and Spanish);
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas3k&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas3k&show_icons=true&theme=dracula&count_private=true)
