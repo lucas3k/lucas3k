@@ -1,10 +1,8 @@
-# Hello, World!
+# Olá, Mundo!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-camargo-stivan-551213215/)](https://www.linkedin.com/in/lucas-camargo-stivan-551213215/)
+<p>Meu nome é Lucas C. Stivan, sou estudante de pós-graduação em Engenharia de Software.</p>
 
-My name is Lucas C. Stivan, I'm 20 years old and I'm a graduate student in Software Engineering. Currently, I have been working as an intern in front-end software development.
-
-📚 Technologies I've studied:
+📚 Tecnologias que estudei:
 
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -12,13 +10,19 @@ My name is Lucas C. Stivan, I'm 20 years old and I'm a graduate student in Softw
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="React Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
+  <img align="center" alt="UI/UX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Metodologias Ágeis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
 </div><br>
 
-A few more facts about me:
+Mais algumas curiosidades sobre mim:
 
-- 🙋🏻‍♂️ I am Brazilian;
-- 💻 I'm passionate about studying/learning about technology;
-- 🌎 I love learning new languages (English and Spanish);
+- 🙋🏻‍♂️ Sou brasileiro;
+- 💻 Sou apaixonado por estudar e aprender sobre tecnologia;
+- 🌎 Adoro aprender novos idiomas (Inglês e Espanhol);
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas3k&show_icons=true&theme=dracula&count_private=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lucas3k&show_icons=true&theme=dracula&count_private=true)
