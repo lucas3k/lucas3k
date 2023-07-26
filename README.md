@@ -8,7 +8,10 @@ Meu nome é Lucas Stivan, sou estudante de graduação em Engenharia de Software
 | ------------ | --------------------------------------------------------------------------------------------------------- |
 | React Native | ![React Native](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) |
 | Node.js      | ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg)       |
+| Angular       | ![Angular](https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg)   |
 | MongoDB      | ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg)     |
+
+Este é o logotipo do Angular, uma estrutura popular para o desenvolvimento de aplicativos da web desenvolvida pelo Google.
 
 ## Tecnologias que estudei 👩‍💻:
 
