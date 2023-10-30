@@ -1,30 +1,3 @@
-<style>
-  img {
-    height: 30px;
-    width: 40px;
-  }
-
-  section {
-    display: grid;
-    gap: 5px;
-    grid-template-columns: repeat(6, 1fr);
-    justify-items: center;
-  }
-
-  div {
-    display: flex;
-    align-items: start;
-    align-items: center;
-    gap: 10px;
-    flex-direction: column;
-  }
-
-  p {
-    text-align: center;
-    color: gray;
-  }
-</style>
-
 # Lucas Stivan
 
 Desenvolvedor na [@BRConnect](https://www.instagram.com/brconnect.net.br/).
@@ -52,89 +25,45 @@ Entusiasta das melhores tecnologias de desenvolvimento web e mobile.
 ---
 
 ### LINGUAGENS & FERRAMENTAS
-<section>
-  <div>
-    <img alt="lucas-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <p>TYPESCRIPT</p>
-  </div>
-  <div>
-    <img alt="lucas-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <p>REACT</p>
-  </div>
-  <div>
-    <img alt="lucas-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <p>NODE.JS</p>
-  </div>
-  <div>
-    <img alt="lucas-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <p>PHP</p>
-  </div>
-  <div>
-    <img alt="lucas-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <p>PYTHON</p>
-  </div>
-  <div>
-    <img alt="lucas-tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-    <p>TAILWINDCSS</p>
-  </div>
-</section>
+
+![typescript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg) **TYPESCRIPT**
+
+![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) **REACT**
+
+![nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) **NODE.JS**
+
+![php](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) **PHP**
+
+![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) **PYTHON**
+
+![tailwindcss](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg) **TAILWINDCSS**
 
 ### BANCO DE DADOS
-<section>
-  <div>
-    <img alt="lucas-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <p>MYSQL</p>
-  </div>
-  <div>
-    <img alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-    <p>POSTGRESQL</p>
-  </div>
-  <div>
-    <img alt="lucas-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-    <p>MONGODB</p>
-  </div>
-  <div>
-    <img alt="lucas-firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-    <p>FIREBASE</p>
-  </div>
-</section>
 
-### FERRAMENTAS DE UI
-<section>
-  <div>
-    <img alt="lucas-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-    <p>FIGMA</p>
-  </div>
-  <div>
-    <img alt="lucas-xd" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg">
-    <p>ADOBE XD</p>
-  </div>
-  <div>
-    <img alt="lucas-photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
-    <p>PHOTOSHOP</p>
-  </div>
-</section>
+![mysql](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) **MYSQL**
+
+![postgresql](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg) **POSTGRESQL**
+
+![mongodb](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg) **MONGODB**
+
+![firebase](https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg) **FIREBASE**
 
 ### VERSIONAMENTO
-<section>
-  <div>
-    <img alt="lucas-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <p>GIT</p>
-  </div>
-  <div>
-    <img alt="lucas-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-    <p>GITHUB</p>
-  </div>
-</section>
+
+![git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) **GIT**
+
+![github](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg) **GITHUB**
+
+### FERRAMENTAS DE UI
+
+![figma](https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg) **FIGMA**
+
+![adobe xd](https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg) **ADOBE XD**
+
+![photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg) **PHOTOSHOP**
 
 ### SISTEMAS OPERACIONAIS
-<section>
-  <div>
-  <img alt="lucas-windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
-    <p>WINDOWS</p>
-  </div>
-  <div style="display: flex; align-items: start; align-items: center; gap: 10px; margin-top: 10px; flex-direction: column;">
-    <img alt="lucas-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-    <p>LINUX</p>
-  </div>
-</section>
+
+![windows](https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg) **WINDOWS**
+
+![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) **LINUX**
