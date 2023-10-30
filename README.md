@@ -1,27 +1,140 @@
-<h1 align="center">Hi 👋, I'm Lucas Stivan</h1>
-<h3 align="center">A passionate full-stack developer from Brazil</h3>
+<style>
+  img {
+    height: 30px;
+    width: 40px;
+  }
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas3k&label=Profile%20views&color=0e75b6&style=flat" alt="lucas3k" /> </p>
+  section {
+    display: grid;
+    gap: 5px;
+    grid-template-columns: repeat(6, 1fr);
+    justify-items: center;
+  }
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucas3k" alt="lucas3k" /></a> </p>
+  div {
+    display: flex;
+    align-items: start;
+    align-items: center;
+    gap: 10px;
+    flex-direction: column;
+  }
 
-- 🔭 I’m currently working on [CODESI](https://codesi.vercel.app/)
+  p {
+    text-align: center;
+    color: gray;
+  }
+</style>
 
-- 🌱 I’m currently learning **Angular and Magento**
+# Lucas Stivan
 
-- 👨‍💻 All of my projects are available at [https://github.com/lucas3k?tab=repositories](https://github.com/lucas3k?tab=repositories)
+Desenvolvedor na [@BRConnect](https://www.instagram.com/brconnect.net.br/).
 
-- 📫 How to reach me **lucascamargo@brconnect.net**
+Entusiasta das melhores tecnologias de desenvolvimento web e mobile.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+[![whatsapp](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5543999171501&text=Ol%C3%A1%2C%20Lucas%20Stivan%20aqui%2C%20tudo%20bem%3F%20%F0%9F%98%84%0A%0AGostaria%20de%20falar%20sobre%20um%20projeto%20com%20voc%C3%AA%2C%20pode%20ser%3F%20%F0%9F%98%8A) [![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-camargo-stivan-4a60b6283/) [![gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucamargostivan@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas3k&show_icons=true&locale=en&layout=compact" alt="lucas3k" /></p>
+> "Nada neste mundo supera a boa e velha persistência. O talento não supera. Nada mais comum do que fracassos talentosos. O gênio não supera. Gênios não reconhecidos são praticamente um clichê. A educação não excede. O mundo está cheio de tolos educados. Persistência e determinação sozinhos são poderosos." - Ray Kroc
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas3k&show_icons=true&locale=en" alt="lucas3k" /></p>
+## Tecnologias & Habilidades
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas3k&" alt="lucas3k" /></p>
+- 🚀 Atualmente estou trabalhando com ReactJS e NodeJS.
+
+- 📚 Estudando Typescript, React Native e NextJS.
+
+- 🎯 Objetivo: me tornar um desenvolvedor fullstack.
+
+- 🎮 Hobbies: jogar, ler e assistir filmes.
+
+- 🎓 Formação: Técnico em Informática (2020) e cursando [Engenharia de Software](https://univale.com.br/) (2021-2024).
+
+---
+
+### LINGUAGENS & FERRAMENTAS
+<section>
+  <div>
+    <img alt="lucas-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <p>TYPESCRIPT</p>
+  </div>
+  <div>
+    <img alt="lucas-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <p>REACT</p>
+  </div>
+  <div>
+    <img alt="lucas-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <p>NODE.JS</p>
+  </div>
+  <div>
+    <img alt="lucas-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <p>PHP</p>
+  </div>
+  <div>
+    <img alt="lucas-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <p>PYTHON</p>
+  </div>
+  <div>
+    <img alt="lucas-tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+    <p>TAILWINDCSS</p>
+  </div>
+</section>
+
+### BANCO DE DADOS
+<section>
+  <div>
+    <img alt="lucas-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <p>MYSQL</p>
+  </div>
+  <div>
+    <img alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <p>POSTGRESQL</p>
+  </div>
+  <div>
+    <img alt="lucas-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+    <p>MONGODB</p>
+  </div>
+  <div>
+    <img alt="lucas-firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+    <p>FIREBASE</p>
+  </div>
+</section>
+
+### FERRAMENTAS DE UI
+<section>
+  <div>
+    <img alt="lucas-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+    <p>FIGMA</p>
+  </div>
+  <div>
+    <img alt="lucas-xd" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg">
+    <p>ADOBE XD</p>
+  </div>
+  <div>
+    <img alt="lucas-photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
+    <p>PHOTOSHOP</p>
+  </div>
+</section>
+
+### VERSIONAMENTO
+<section>
+  <div>
+    <img alt="lucas-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <p>GIT</p>
+  </div>
+  <div>
+    <img alt="lucas-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+    <p>GITHUB</p>
+  </div>
+</section>
+
+### SISTEMAS OPERACIONAIS
+<section>
+  <div>
+  <img alt="lucas-windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+    <p>WINDOWS</p>
+  </div>
+  <div style="display: flex; align-items: start; align-items: center; gap: 10px; margin-top: 10px; flex-direction: column;">
+    <img alt="lucas-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    <p>LINUX</p>
+  </div>
+</section>
